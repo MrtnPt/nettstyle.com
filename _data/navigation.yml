@@ -1,0 +1,8 @@
+- name: Kezdőlap
+  link: /
+- name: Rólam
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: Kapcsolat
+  link: /contact.html
