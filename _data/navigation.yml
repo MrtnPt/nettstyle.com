@@ -1,8 +1,8 @@
 - name: Kezdőlap
-  link: /
+  link: /nettstyle.com/
 - name: Rólam
-  link: /about.html
-- name: Blog
-  link: /blog.html
+  link: /nettstyle.com/about.html
+- name: Árak
+  link: /nettstyle.com/prices.html
 - name: Kapcsolat
-  link: /contact.html
+  link: /nettstyle.com/contact.html
