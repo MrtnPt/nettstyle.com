@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rólam
+title: Rólam | nettStyle
 ---
 # Rólam
 Mondhatnám,  hogy minden ott kezdődött, amikor a barátnőim elkezdtek férjhez menni és megkértek, hogy készítsek nekik valami szép frizurát, sminket…
